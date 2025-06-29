@@ -4,4 +4,11 @@ The purpose of the project was creating a server android application for two esp
 
 ![](All.jpg)
 
-[![Demo on YouTube](https://img.youtube.com/vi/F1ITty9lAGg/0.jpg)](https://youtu.be/F1ITty9lAGg)
+<p align="center">
+  <a href="https://youtu.be/F1ITty9lAGg" target="_blank">
+    <img src="https://img.youtube.com/vi/F1ITty9lAGg/0.jpg" alt="Zobacz demo na YouTube" width="480"/>
+  </a>
+</p>
+<p align="center">
+  <strong><a href="https://youtu.be/F1ITty9lAGg">🎬 Zobacz demo na YouTube</a></strong>
+</p>
